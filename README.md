@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nellybuntfuss and and I study sociology with a focus on social cohesion and conflict resolution. 
-- 👀 I’m interested in quanitative research and doing some cool stuff with data.
-- 🌱 I’m currently learning a lot of different things in R.
+- 👋 Hi, I’m @nellybuntfuss and doing my PhD.
+- 👀 I’m interested in quanitative research and learning new things in R. 
 
 
 <!---
